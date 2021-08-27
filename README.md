@@ -15,4 +15,4 @@ In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: 
 9. The fate of Dr. Semmelweis
 
 ## Technology
-Python
+Python and R
